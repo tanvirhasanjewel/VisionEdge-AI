@@ -1,7 +1,26 @@
-# VisionEdge AI - Detect with Intelligence App
-![App Screenshot](./f3de566a-8c73-4177-af70-ae649fa86064.png)
+# VisionEdge AI - Detect with Intelligence Application
 
 **VisionEdge AI** is an advanced computer vision application designed to intelligently detect, classify, and analyze objects, people, or events in real-time using the power of artificial intelligence. Whether deployed on edge devices or cloud environments, VisionEdge AI brings cutting-edge detection capabilities to your fingertips.
+
+## 📷 photos
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/1.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/2.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/3.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/4.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/5.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/6.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/7.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/8.png)
+
+![App Screenshot](https://github.com/tanvirhasanjewel/VisionEdge-AI/blob/main/Image/9.png)
 
 ## 🚀 Overview
 
@@ -42,13 +61,14 @@ Built with scalability, performance, and privacy in mind, the app is ideal for u
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-org/visionedge-ai.git
-cd visionedge-ai
-pip install -r requirements.txt
-python app.py
+git clone https://github.com/tanvirhasanjewel/VisionEdge-AI.git
+python -m venv venv
+source venv/Scripts/activate
+pip install streamlit opencv-python
+streamlit run app.py
 ```
 
-> For full deployment instructions, see the [docs/INSTALL.md](docs/INSTALL.md) file.
+> For full deployment instructions, see the [docs/INSTALL.md](https://github.com/tanvirhasanjewel/VisionEdge-AI.git) file.
 
 ## 📸 Sample Use Case
 
@@ -71,13 +91,11 @@ visionedge-ai/
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! If you'd like to suggest improvements or submit a pull request, please see our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
+We welcome contributions from the community! If you'd like to suggest improvements or submit a pull request, please see our [CONTRIBUTING.md](https://github.com/tanvirhasanjewel) guidelines.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/tanvirhasanjewel/VisionEdge-AI.git) for details.
 
 ---
-
-Would you like this customized for a specific use case (e.g., surveillance, industrial QA, etc.) or deployment scenario?
 
