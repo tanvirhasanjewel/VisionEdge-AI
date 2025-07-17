@@ -1,0 +1,7 @@
+python -m venv venv
+
+source venv/Scripts/activate
+
+pip install streamlit
+
+streamlit run app.py
